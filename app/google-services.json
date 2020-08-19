@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592214016980",
+    "firebase_url": "https://traveljournal-cd974.firebaseio.com",
+    "project_id": "traveljournal-cd974",
+    "storage_bucket": "traveljournal-cd974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592214016980:android:b224e6ba6644fb01234c41",
+        "android_client_info": {
+          "package_name": "com.israel.traveljournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592214016980-sd3gse360nhda5ir0m2hqi1lcodlrdho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9BP2tblwsI93pbZcU-VxD3LqGKtQXsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592214016980-sd3gse360nhda5ir0m2hqi1lcodlrdho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
